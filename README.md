@@ -8,6 +8,8 @@ This analysis was performed to help Louise, a playwriter, determine whether a cr
 ### Analysis of Outcomes Based on Launch Date
 One takeaway from this analysis was seeing when the best time to launch her crowdfunding project would be. By compiling imformation for different theater crowdfunding projects, the best time to launch a crowdfunding project is late spring and the worst time is wintertime. The most ideal time for Louise to launch her crowdfunding is at the end of April. 
 
+![This is an image](https://github.com/assets/images/Resources/Theater Outcomes Based on Launch Date.png)
+
 ### Analysis of Outcomes Based on Goals
 
 
