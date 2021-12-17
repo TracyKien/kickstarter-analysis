@@ -28,7 +28,7 @@ There weren't many challenges and difficulties that I encountered other than fin
 
 - Some other charts and graphs that could be created based on this dataset are:
 
-  *You can use the dataset to determine which Parent Category has the best crowdfunding success rate.
-  *You can break it down even further to determine which Subcategory out of each Parent Category is the most successful.
-  *Create a graph to see what the highest amount raise vs the lowest amount raise is.
+ -You can use the dataset to determine which Parent Category has the best crowdfunding success rate.
+ -You can break it down even further to determine which Subcategory out of each Parent Category is the most successful.
+ -Create a graph to see what the highest amount raise vs the lowest amount raise is.
 
