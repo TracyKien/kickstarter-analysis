@@ -27,8 +27,7 @@ There weren't many challenges and difficulties that I encountered other than fin
 - Some limitations of this dataset that I noticed was that it only has data up to the year 2017 and it is now 2021 so the data is a little outdated if Louise were wanting the information to start a crowdfund for the current year.
 
 - Some other charts and graphs that could be created based on this dataset are:
-
- -You can use the dataset to determine which Parent Category has the best crowdfunding success rate.
- -You can break it down even further to determine which Subcategory out of each Parent Category is the most successful.
- -Create a graph to see what the highest amount raise vs the lowest amount raise is.
+  - You can use the dataset to determine which Parent Category has the best crowdfunding success rate.
+  - You can break it down even further to determine which Subcategory out of each Parent Category is the most successful.
+  - Create a graph to see what the highest amount raise vs the lowest amount raise is.
 
