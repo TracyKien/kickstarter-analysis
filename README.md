@@ -2,12 +2,17 @@
 
 ## Overview of Project
 ### Purpose
-This analysis was performed to help a playwriter determine whether a crowdfunding campaign for her play would be successful. Performing an analysis on serveral thousand crowdfunding projects will help uncover trends that might help her determine the best route to take with her crowdfunding project.
+This analysis was performed to help Louise, a playwriter, determine whether a crowdfunding campaign for her play would be successful. Performing an analysis on serveral thousand crowdfunding projects helped uncover trends that might help her determine the best route to take with her crowdfunding project.
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+One takeaway from this analysis was seeing when the best time to launch her crowdfunding project would be. By compiling imformation for different theater crowdfunding projects, the best time to launch a crowdfunding project is late spring and the worst time is wintertime. The most ideal time for Louise to launch her crowdfunding is at the end of April. 
+
 ### Analysis of Outcomes Based on Goals
+
+
 ### Challenges and Difficulties Encountered
+
 
 ## Results
 
